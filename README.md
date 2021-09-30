@@ -35,31 +35,31 @@
 - 📫 How to reach me **contacto@sergioperea.net**
 <h4>Programming Languages, Skills and Tools: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="45" height="45"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/python/python-original.svg" alt=cplusplus width="45" height="45"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/javascript/javascript-original.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/spring/spring-original.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nextjs/nextjs-original.svg" alt=cplusplus width="45" height="45"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="36" height="36"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/python/python-original.svg" alt=cplusplus width="36" height="36"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/javascript/javascript-original.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/spring/spring-original.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nextjs/nextjs-original.svg" alt=cplusplus width="36" height="36"/>
 
 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/postgresql/postgresql-original.svg" alt=cplusplus width="45" height="45"/>
-<img style="margin: auto;" src="https://github.com/sperea/devicon/blob/master/icons/mysql/mysql-original.svg" alt=cplusplus width="45" height="45"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/mongodb/mongodb-original.svg" alt=cplusplus width="45" height="45"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/postgresql/postgresql-original.svg" alt=cplusplus width="36" height="36"/>
+<img style="margin: auto;" src="https://github.com/sperea/devicon/blob/master/icons/mysql/mysql-original.svg" alt=cplusplus width="36" height="36"/>
+<img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/mongodb/mongodb-original.svg" alt=cplusplus width="36" height="36"/>
 
 
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/docker/docker-original.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/docker/docker-original.svg" alt=cplusplus width="36" height="36"/>
 </p>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="36" height="36"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="36" height="36"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="36" height="36"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="36" height="36"/>
 </p>
 
 
