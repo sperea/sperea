@@ -35,6 +35,11 @@
 - 📫 How to reach me **contacto@sergioperea.net**
 <h4>Programming Languages, Skills and Tools: </h4>
 <p align="left">
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="45" height="45"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/python/python-original.svg" alt=cplusplus width="45" height="45"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/javascript/javascript-original.svg" alt=cplusplus width="45" height="45"/>
+
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/spring/spring-original.svg" alt=cplusplus width="45" height="45"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="45" height="45"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="45" height="45"/>
