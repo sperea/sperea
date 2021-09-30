@@ -29,9 +29,9 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
+- 🔭 I’m currently working as **freelance**
 - 🌱 I’m currently learning ... **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment**
+- 💬 Ask me about ... **Web Develpoment, DDD, XP, CI/CD, DevOps**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
 - 📫 How to reach me **sachinverma53121@gmail.com**
