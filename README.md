@@ -5,12 +5,12 @@
     <img src="https://img.shields.io/badge/blog-my%20personal%20site-red">
   </a>
   
-  <a href="https://twitter.com/SergioPereaDev">
-    <img src="https://img.shields.io/badge/twitter-SergioPereaDev-blue">
-  </a>
-  
    <a href="https://www.linkedin.com/in/sergperea/">
     <img src="https://img.shields.io/badge/linkedin-sergperea-blue">
+  </a>
+
+  <a href="https://twitter.com/SergioPereaDev">
+    <img src="https://img.shields.io/badge/twitter-SergioPereaDev-blue">
   </a>
   
   <a href="https://www.instagram.com/SergioPereaDev/">
