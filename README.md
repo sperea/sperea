@@ -31,9 +31,8 @@
 
 - 🔭 I’m currently working as **freelance**
 - 💬 Ask me about ... **Web, DDD, XP, CI/CD, DevOps**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- ⚡ Fun fact ... **Photography**, **Outdoor**, **Running**
+- 📫 How to reach me **contacto@sergioperea.net**
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
