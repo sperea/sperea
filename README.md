@@ -38,12 +38,15 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="36" height="36"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/python/python-original.svg" alt=cplusplus width="36" height="36"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/javascript/javascript-original.svg" alt=cplusplus width="36" height="36"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/go/go-original.svg" alt=cplusplus width="36" height="36"/>
+
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/spring/spring-original.svg" alt=cplusplus width="36" height="36"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="36" height="36"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="36" height="36"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="36" height="36"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt=cplusplus width="36" height="36"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nextjs/nextjs-original.svg" alt=cplusplus width="36" height="36"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt=cplusplus width="36" height="36"/>
 
 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/postgresql/postgresql-original.svg" alt=cplusplus width="36" height="36"/>
