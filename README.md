@@ -42,6 +42,9 @@
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="45" height="45"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nextjs/nextjs-original.svg" alt=cplusplus width="45" height="45"/>
+
 
 <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/postgresql/postgresql-original.svg" alt=cplusplus width="45" height="45"/>
 <img style="margin: auto;" src="https://github.com/sperea/devicon/blob/master/icons/mysql/mysql-original.svg" alt=cplusplus width="45" height="45"/>
