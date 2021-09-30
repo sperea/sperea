@@ -23,7 +23,7 @@
 <h3 align="center">A passionate fullstack developer from Madrid, Spain</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2001)</h3>
 <h3 align="center">Insurance Expert</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sperea alt=sperea/></p>
 
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -35,9 +35,9 @@
 - 📫 How to reach me **contacto@sergioperea.net**
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
 </p>
 
 <h4>Skills and Tools: </h4>
