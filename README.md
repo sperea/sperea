@@ -30,8 +30,7 @@
 
 
 - 🔭 I’m currently working as **freelance**
-- 🌱 I’m currently learning ... **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment, DDD, XP, CI/CD, DevOps**
+- 💬 Ask me about ... **Web, DDD, XP, CI/CD, DevOps**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime**❤
 - 📫 How to reach me **sachinverma53121@gmail.com**
