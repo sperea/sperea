@@ -36,8 +36,8 @@
 <h4>Programming Languages: </h4>
 <p align="left">
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="45" height="45"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="45" height="45"/>
 </p>
 
 <h4>Skills and Tools: </h4>
