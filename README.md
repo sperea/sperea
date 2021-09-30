@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://twitter.com/SergioPereaDev">
-    <img src="https://img.shields.io/badge/twitter-sergperea-blue">
+    <img src="https://img.shields.io/badge/twitter-SergioPereaDev-blue">
   </a>
   
    <a href="https://www.linkedin.com/in/sergperea/">
