@@ -31,7 +31,7 @@
 
 - 🔭 I’m currently working as **freelance**
 - 💬 Ask me about ... **Web, DDD, XP, CI/CD, DevOps**
-- ⚡ Fun fact ... **Photography**, **Outdoor**, **Running**
+- ⚡ Fun fact ... **[Photography](https://www.sergioperea.es)**, **Outdoor**, **Running**
 - 📫 How to reach me **contacto@sergioperea.net**
 <h4>Programming Languages, Skills and Tools: </h4>
 <p align="left">
