@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sergio Perea</h1>
  <p align="center"><br/>
   
-  <a href="https://www.sergioperea.net/">
+  <a href="https://www.sperea.es/">
     <img src="https://img.shields.io/badge/blog-my%20personal%20site-red">
   </a>
   
@@ -32,7 +32,7 @@
 - 🔭 I’m currently working as **freelance**
 - 💬 Ask me about ... **Web, DDD, XP, CI/CD, DevOps**
 - ⚡ Fun fact ... **[Photography](https://www.sergioperea.es)**, **Outdoor**, **Running**
-- 📫 How to reach me **contacto@sergioperea.net**
+- 📫 How to reach me **contacto@sergioperea.es**
 <h4>Programming Languages, Skills and Tools: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="36" height="36"/>
