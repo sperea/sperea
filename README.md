@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/instagram-SergioPereaDev-red">
   </a>
   
-   <a href="https://www.instagram.com/SergioPereaDev/">
+   <a rel="me" href="https://mastodon.social/@sperea">
     <img src="https://img.shields.io/badge/mastodon-SergioPereaDev-red">
   </a>
   
@@ -68,7 +68,6 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="36" height="36"/>
 </p>
 
-<a rel="me" href="https://mastodon.social/@sperea">.</a>
 
 
 
