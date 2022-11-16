@@ -18,7 +18,7 @@
   </a>
   
    <a rel="me" href="https://mastodon.social/@sperea">
-    <img src="https://img.shields.io/badge/mastodon-SergioPereaDev-red">
+    <img src="https://img.shields.io/badge/mastodon-sperea-red">
   </a>
   
 </p>
