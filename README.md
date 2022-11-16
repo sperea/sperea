@@ -17,6 +17,9 @@
     <img src="https://img.shields.io/badge/instagram-SergioPereaDev-red">
   </a>
   
+   <a href="https://www.instagram.com/SergioPereaDev/">
+    <img src="https://img.shields.io/badge/mastodon-SergioPereaDev-red">
+  </a>
   
 </p>
 
