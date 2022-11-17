@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/instagram-SergioPereaDev-red">
   </a>
   
-   <a rel="me" href="https://mastodon.social/@sperea">
+   <a href="https://mastodon.social/@sperea" rel="me nofollow" >
     <img src="https://img.shields.io/badge/mastodon-sperea-red">
   </a>
   
