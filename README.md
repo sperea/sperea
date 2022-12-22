@@ -25,6 +25,9 @@
   
 </p>
 
+<p>
+I'm always looking for ways to improve the quality of my code, but I'll never forget that it's also about being a good teammate and contributing to the team culture.</p>
+
 <h3 align="center">A passionate fullstack developer from Madrid, Spain</h3>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2001)</h3>
 <h3 align="center">Insurance Expert</h3>
