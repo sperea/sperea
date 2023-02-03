@@ -40,7 +40,7 @@ I'm always looking for ways to improve the quality of my code, but I'll never fo
 - 🔭 I’m currently working as **freelance**
 - 💬 Ask me about ... **Web, DDD, XP, CI/CD, DevOps**
 - ⚡ Fun fact ... **[Photography](https://www.sergioperea.es)**, **Outdoor**, **Running**
-- 📫 How to reach me **contacto@sergioperea.es**
+- 📫 How to reach me **dev@sperea.es**
 <h4>Programming Languages, Skills and Tools: </h4>
 <p align="left">
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="36" height="36"/>
