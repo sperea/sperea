@@ -12,7 +12,7 @@
   <a href="https://mastodon.social/@sperea" rel="me nofollow">
     <img src="https://img.shields.io/badge/mastodon-@sperea-purple?style=for-the-badge&logo=mastodon"> 
   </a>
-  <a href="[https://mastodon.social/@sperea](https://bsky.app/profile/sperea.es)">
+  <a href="https://bsky.app/profile/sperea.es" rel="me nofollow">
   <img src="https://img.shields.io/badge/Bluesky-FFF?style=for-the-badge&logo=bluesky">
     </a>
 </p>
