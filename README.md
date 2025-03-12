@@ -3,8 +3,8 @@
 <h1 align="center">👋 Hi, I'm Sergio Perea</h1>
 
 <p align="center">
-  <a href="https://www.sergioperea.es">
-    <img src="https://img.shields.io/badge/blog-sergioperea.es-red?style=for-the-badge">
+  <a href="https://sperea.es">
+    <img src="https://img.shields.io/badge/sperea.es-red?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/sergperea/">
     <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
