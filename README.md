@@ -12,6 +12,9 @@
   <a href="https://mastodon.social/@sperea" rel="me nofollow">
     <img src="https://img.shields.io/badge/mastodon-@sperea-purple?style=for-the-badge&logo=mastodon"> 
   </a>
+  <a href="https://mastodon.social/@sperea" rel="me nofollow">
+  ![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)
+    </a>
 </p>
 
 ---
