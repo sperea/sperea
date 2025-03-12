@@ -3,14 +3,11 @@
 <h1 align="center">👋 Hi, I'm Sergio Perea</h1>
 
 <p align="center">
-  <a href="https://sperea.es">
-    <img src="https://img.shields.io/badge/sperea.es-red?style=for-the-badge">
-  </a>
   <a href="https://www.linkedin.com/in/sergperea/">
     <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://mastodon.social/@sperea" rel="me nofollow">
-    <img src="https://img.shields.io/badge/mastodon-@sperea-purple?style=for-the-badge&logo=mastodon"> 
+    <a href="https://sperea.es">
+    <img src="https://img.shields.io/badge/sperea.es-red?style=for-the-badge">
   </a>
   <a href="https://bsky.app/profile/sperea.es" rel="me nofollow">
   <img src="https://img.shields.io/badge/Bluesky-FFF?style=for-the-badge&logo=bluesky">
