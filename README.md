@@ -9,15 +9,8 @@
   <a href="https://www.linkedin.com/in/sergperea/">
     <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://twitter.com/sergioperea">
-    <img src="https://img.shields.io/badge/twitter-sergioperea-blue?style=for-the-badge&logo=twitter">
-  </a>
   <a href="https://mastodon.social/@sperea" rel="me nofollow">
-    <img src="https://img.shields.io/badge/mastodon-@sperea-purple?style=for-the-badge&logo=mastodon"> ![Mastodon Follow](https://img.shields.io/mastodon/follow/:id)
-
-  </a>
-  <a href="https://www.linkedin.com/in/sergperea/">
-    <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/mastodon-@sperea-purple?style=for-the-badge&logo=mastodon"> 
   </a>
 </p>
 
