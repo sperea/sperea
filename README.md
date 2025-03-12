@@ -1,79 +1,101 @@
 <link rel="me" href="https://mastodon.social/@sperea" />
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Sergio Perea</h1>
- <p align="center"><br/>
-  
-  <a href="https://sperea.es/">
-    <img src="https://img.shields.io/badge/blog-my%20personal%20site-red">
-  </a>
-  
-   <a href="https://www.linkedin.com/in/sergperea/">
-    <img src="https://img.shields.io/badge/linkedin-sergperea-blue">
-  </a>
+<h1 align="center">👋 Hi, I'm Sergio Perea</h1>
 
-  <a href="https://twitter.com/SergioPereaDev">
-    <img src="https://img.shields.io/badge/twitter-SergioPereaDev-blue">
+<p align="center">
+  <a href="https://www.sergioperea.es">
+    <img src="https://img.shields.io/badge/blog-sergioperea.es-red?style=for-the-badge">
   </a>
-  
-  <a href="https://www.instagram.com/SergioPereaDev/">
-    <img src="https://img.shields.io/badge/instagram-SergioPereaDev-red">
+  <a href="https://www.linkedin.com/in/sergperea/">
+    <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
   </a>
-  
-   <a href="https://masto.es/@sperea" rel="me nofollow" >
-    <img src="https://img.shields.io/badge/mastodon-sperea-red">
+  <a href="https://twitter.com/sergioperea">
+    <img src="https://img.shields.io/badge/twitter-sergioperea-blue?style=for-the-badge&logo=twitter">
   </a>
-  
+  <a href="https://mastodon.social/@sperea" rel="me nofollow">
+    <img src="https://img.shields.io/badge/mastodon-@sperea-purple?style=for-the-badge&logo=mastodon"> ![Mastodon Follow](https://img.shields.io/mastodon/follow/:id)
+
+  </a>
+  <a href="https://www.linkedin.com/in/sergperea/">
+    <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
-<p>
-I'm always looking for ways to improve the quality of my code, but I'll never forget that it's also about being a good teammate and contributing to the team culture.</p>
+---
 
-<h3 align="center">A passionate fullstack developer from Madrid, Spain</h3>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2001)</h3>
-<h3 align="center">Insurance Expert</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sperea alt=sperea/></p>
+> "I’m passionate about creating quality software and advocating best development practices. My interests include **Clean Code**, **TDD**, **XP**, agile methodologies, and the practical application of technology to drive business transformation."
 
+---
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+### 🚀 **Who am I?**
 
+- 💻 **Software Engineer** passionate about **Clean Code**, **TDD**, **DDD**, **XP**, **CI/CD**, and **DevOps**.
+- 🎓 **Bachelor in Computer Engineering** (Graduated in 2001).
+- 💼 **Insurance Expert** with extensive experience.
+- 📈 Enthusiastic about **Digital Marketing**, **CRM**, and **Data Analytics**.
 
-- 🔭 I’m currently working as **freelance**
-- 💬 Ask me about ... **Web, DDD, XP, CI/CD, DevOps**
-- ⚡ Fun fact ... **[Photography](https://www.sergioperea.es)**, **Outdoor**, **Running**
-- 📫 How to reach me **dev@sperea.es**
-<h4>Programming Languages, Skills and Tools: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/java/java-original.svg" alt=cplusplus width="36" height="36"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/python/python-original.svg" alt=cplusplus width="36" height="36"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/javascript/javascript-original.svg" alt=cplusplus width="36" height="36"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/go/go-original.svg" alt=cplusplus width="36" height="36"/>
+### 🔧 **Tech Stack & Skills**
 
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/spring/spring-original.svg" alt=cplusplus width="36" height="36"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/django/django-plain.svg" alt=cplusplus width="36" height="36"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/react/react-original.svg" alt=cplusplus width="36" height="36"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/vuejs/vuejs-original.svg" alt=cplusplus width="36" height="36"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nuxtjs/nuxtjs-original.svg" alt=cplusplus width="36" height="36"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/nextjs/nextjs-original.svg" alt=cplusplus width="36" height="36"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt=cplusplus width="36" height="36"/>
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### **Frameworks & Libraries**
 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/postgresql/postgresql-original.svg" alt=cplusplus width="36" height="36"/>
-<img style="margin: auto;" src="https://github.com/sperea/devicon/blob/master/icons/mysql/mysql-original.svg" alt=cplusplus width="36" height="36"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/mongodb/mongodb-original.svg" alt=cplusplus width="36" height="36"/>
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
+### **Databases**
 
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sperea/devicon/master/icons/docker/docker-original.svg" alt=cplusplus width="36" height="36"/>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### **DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell_Scripting-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### **Agile & Methodologies**
+
+- ✅ **Agile Development** (Scrum, Kanban)
+- ✅ **TDD**, **Clean Code**, **XP**
+- 🚀 **Project Management & Team Leadership**
+
+### **Marketing & CRM**
+
+- **WordPress**, **Moodle**
+- Inbound & Outbound Campaigns
+- Digital Analytics
+- Relational & Engagement Strategies
+
+---
+
+### 🚀 **Interests & Hobbies**
+- 📸 [Photography](https://www.sergioperea.es)
+- 🏃‍♂️ Running & Outdoors
+- 🧑‍💻 Continuous learning and experimenting with technology.
+
+---
+
+### ✉️ **Contact Me**
+📩 **Email:** [dev@sperea.es](mailto:dev@sperea.es)  
+🌐 [sergioperea.es](https://www.sergioperea.es)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sperea" alt="Profile Views" />
 </p>
 
-<h4>Desktop Environment: </h4>
-<p align="left">
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=vs width="36" height="36"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/linux.png" alt=linux width="36" height="36"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=ubuntu width="36" height="36"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/win10.png" alt=windows10 width="36" height="36"/>
-</p>
+<link rel="me" href="https://masto.es/@sperea" />
 
-
-
-
-
+---
