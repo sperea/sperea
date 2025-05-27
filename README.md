@@ -3,16 +3,17 @@
 <h1 align="center">👋 Hi, I'm Sergio Perea</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergperea/">
-    <img src="https://img.shields.io/badge/linkedin-sergperea-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/sergperea/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-sergperea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-    <a href="https://sperea.es">
-    <img src="https://img.shields.io/badge/sperea.es-red?style=for-the-badge">
+  <a href="https://sperea.es" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Web-sperea.es-E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Sitio Web">
   </a>
-  <a href="https://bsky.app/profile/sperea.es" rel="me nofollow">
-  <img src="https://img.shields.io/badge/Bluesky-FFF?style=for-the-badge&logo=bluesky">
-    </a>
+  <a href="https://bsky.app/profile/sperea.es" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Bluesky-@sperea.es-0066FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
+  </a>
 </p>
+
 
 ---
 
