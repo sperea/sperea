@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-sergperea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://sergioperea.is-a.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Web-sergioperea.is-a.dev-E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Sitio Web">
+    <img src="https://img.shields.io/badge/Web-sergioperea-E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Sitio Web">
   </a>
   <a href="https://bsky.app/profile/sperea.es" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bluesky-@sperea.es-0066FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
