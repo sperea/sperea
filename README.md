@@ -15,6 +15,7 @@
 </p>
 
 
+
 ---
 
 > "I’m passionate about creating quality software and advocating best development practices. My interests include **Clean Code**, **TDD**, **XP**, agile methodologies, and the practical application of technology to drive business transformation."
