@@ -12,7 +12,11 @@
   <a href="https://bsky.app/profile/sperea.es" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Bluesky-@sperea.es-0066FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
   </a>
+  <a href="https://mastodon.social/@sergioperea" target="_blank" rel="me noopener noreferrer">
+    <img src="https://img.shields.io/badge/Mastodon-@sergioperea-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">
+  </a>
 </p>
+
 
 
 
