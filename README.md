@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/sergperea/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-sergperea-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://sperea.es" target="_blank" rel="noopener noreferrer">
+  <a href="https://sergioperea.is-a.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Web-sperea.es-E34F26?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Sitio Web">
   </a>
   <a href="https://bsky.app/profile/sperea.es" target="_blank" rel="noopener noreferrer">
