@@ -86,8 +86,8 @@
 ---
 
 ### ✉️ **Contact Me**
-📩 **Email:** [dev@sperea.es](mailto:sergio@sperea.es)  
-🌐 [sergioperea.es](https://sperea.es)
+📩 **Email:** [sergio@sperea.es](mailto:sergio@sperea.es)  
+🌐 [sergioperea.is-a.dev](https://sergioperea.is-a.dev)
 
 ---
 
